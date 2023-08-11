@@ -29,4 +29,4 @@ Skills: Python and HTML
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=aMimiNotaMeme)  
 
-![Profile views](https://gpvc.arturio.dev/aMimiNotaMeme)  
+![Profile views](https://gpvc.arturio.dev/[aMimiNotaMeme])
