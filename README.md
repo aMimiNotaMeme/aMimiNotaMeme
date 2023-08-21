@@ -5,7 +5,7 @@ Hi! My name is Jack and I am in High School. I am a Python Developer and student
       
 
      
-Skills: Python and HTML         
+Skills: Python and HTML            
 
 - 🔭 I’m currently working on expanding my Python experience 
 - 🌱 I’m currently learning Java and Javascript 
