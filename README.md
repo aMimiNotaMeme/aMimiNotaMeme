@@ -11,7 +11,7 @@ Skills: Python and HTML
 - 🌱 I’m currently learning Java and Javascript          
 - 👯 I’m looking to collaborate on more open source projects! 
 - 💬 Ask me about industrial automation  
-- 📫 How to reach me: Discord (daaaaaatguy) 
+- 📫 How to reach me: Discord (daaaaaatguy)  
 - 😄 Pronouns: he/him 
 
 
