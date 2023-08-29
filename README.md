@@ -4,7 +4,7 @@
 Hi! My name is Jack and I am in High School. I am a Python Developer and student who is currently learning Java and JavaScript. Here is some info about me. Message me on Discord (daaaaaatguy) if you want to know anything else. (Also, this is not my alt account)         
       
      
-      
+       
 Skills: Python and HTML            
 
 - 🔭 I’m currently working on expanding my Python experience    
