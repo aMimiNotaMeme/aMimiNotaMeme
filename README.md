@@ -21,7 +21,7 @@ Skills: Python and HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMimiNotaMeme)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aMimiNotaMeme&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aMimiNotaMeme&show_icons=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aMimiNotaMeme)  
 
