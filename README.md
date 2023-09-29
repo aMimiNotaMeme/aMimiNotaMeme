@@ -24,6 +24,6 @@ Skills: Python and HTML
 
 ![GitHub metrics](https://metrics.lecoq.io/jackwbr)  
 
-![jackwbr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackwbr&theme=prussian&hide_border=true)
+![jackwbr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackwbr&theme=prussian&hide_border=true) 
 
 ![Profile views](https://gpvc.arturio.dev/[jackwbr])
