@@ -20,7 +20,7 @@ Skills: Python and HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwbr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true))
+![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackwbr)  
 
