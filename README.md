@@ -18,12 +18,12 @@ Skills: Python and HTML
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jackwbr)](https://github.com/ryo-ma/github-profile-trophy)
 
+![jackwbr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackwbr&theme=prussian&hide_border=true)
+
 ![jackwbr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackwbr)  
 
 ![GitHub metrics](https://metrics.lecoq.io/jackwbr)  
-
-![jackwbr's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jackwbr&theme=prussian&hide_border=true) 
 
 ![Profile views](https://gpvc.arturio.dev/[jackwbr])
