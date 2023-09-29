@@ -13,20 +13,19 @@ Skills: Python and HTML
 - 💬 Ask me about industrial automation  
 - 📫 How to reach me: Discord (daaaaaatguy)  
 - 😄 Pronouns: he/him  
-![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aMimiNotaMeme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aMimiNotaMeme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/a_mimi_nota_meme)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jackwbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jackwbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jackwbr)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=aMimiNotaMeme)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jackwbr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aMimiNotaMeme)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwbr)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aMimiNotaMeme&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jackwbr&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aMimiNotaMeme)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jackwbr)  
 
-![GitHub metrics](https://metrics.lecoq.io/aMimiNotaMeme)  
+![GitHub metrics](https://metrics.lecoq.io/jackwbr)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=aMimiNotaMeme)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jackwbr)  
 
-![Profile views](https://gpvc.arturio.dev/[aMimiNotaMeme])
+![Profile views](https://gpvc.arturio.dev/[jackwbr])
