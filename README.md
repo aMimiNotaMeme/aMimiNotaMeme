@@ -14,12 +14,11 @@ Skills: Python and HTML
 - 📫 How to reach me: Discord (daaaaaatguy)  
 - 😄 Pronouns: he/him  
 
-#Main stats belows (grade)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jackwbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jackwbr)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jackwbr)  
+![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=jackwbr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwbr)](https://github.com/anuraghazra/github-readme-stats)
+![jackwbr's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&layout=compact)
 
 ![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
