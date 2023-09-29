@@ -13,7 +13,7 @@ Skills: Python and HTML
 - 💬 Ask me about industrial automation  
 - 📫 How to reach me: Discord (daaaaaatguy)  
 - 😄 Pronouns: he/him  
-
+![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aMimiNotaMeme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/aMimiNotaMeme)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/a_mimi_nota_meme)  
 
