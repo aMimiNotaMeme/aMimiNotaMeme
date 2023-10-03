@@ -11,7 +11,7 @@ Skills: Python and HTML
 - 🌱 I’m currently learning Java, Javascript, and C++        
 - 👯 I’m looking to collaborate on more open source projects! 
 - 💬 Ask me about industrial automation  
-- 📫 How to reach me: Discord (daaaaaatguy)  
+- 📫 How to reach me: Discord (jackwbr)  
 - 😄 Pronouns: he/him  
 
 ![jackwbr's Stats](https://github-readme-stats.vercel.app/api?username=jackwbr&theme=prussian&show_icons=true&hide_border=true&count_private=true)
