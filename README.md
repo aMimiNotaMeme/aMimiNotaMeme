@@ -6,7 +6,7 @@ Hi! My name is Jack. I am a Python Developer and high school student who is curr
        
        
 Skills: Python and HTML              
-  
+   
 - 🔭 I’m currently working on expanding my Python experience    
 - 🌱 I’m currently learning Java, Javascript, and C++        
 - 👯 I’m looking to collaborate on more open source projects! 
