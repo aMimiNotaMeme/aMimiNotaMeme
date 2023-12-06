@@ -9,7 +9,7 @@ Skills: Python, HTML, C++ (learning), and Java (learning)
    
 - 🔭 I’m currently working on expanding my Python experience with libraries like PyGame    
 - 🌱 I’m currently learning Java and C++        
-- 👯 I’m looking to collaborate on more open-source projects! 
+- 👯 I’m looking to collaborate on more open-source projects
 - 💬 Ask me about industrial automation or quantum cybersecurity 
 - 📫 How to reach me: Discord (jackwbr)  
 - 😄 Pronouns: he/him  
