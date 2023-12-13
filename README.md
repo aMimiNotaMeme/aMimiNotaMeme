@@ -3,7 +3,7 @@
                      
 Hi! My name is Jack. I am a Python Developer and high school student who is currently learning Java and C++. Here is some info about me. Message me on Discord  (jackwbr) if you want to know anything else. (Disclaimer, this is not my alt account)                    
              
-          
+           
        
 Skills: Python, HTML, C++ (learning), and Java (learning)              
    
