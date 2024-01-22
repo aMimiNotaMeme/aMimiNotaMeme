@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Jack                                                                        
-#### Python Developer and Student                                                            
+### Hi there 👋, my name is Jack                                                                         
+#### Python Developer and Student                                                             
                         
 Hi! My name is Jack. I am a developer and high school student who is currently learning Java, C++, and expanding my Python experience. Message me on Discord  (jackwbr) if you want to know anything else. (Disclaimer, this is not my alt account)                     
              
