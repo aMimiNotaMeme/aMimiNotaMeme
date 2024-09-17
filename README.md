@@ -10,7 +10,7 @@ Skills: Python, HTML, C++, and Java (learning)
 - 🔭 I’m currently working on expanding my networking and web development experience, as well as getting decent grades :/
 - 🌱 I’m currently learning Java and C++        
 - 👯 I’m looking to collaborate on more open-source projects and learn more about C 
-- 💬 Ask me about industrial automation or quantum cybersecurity 
+- 💬 Ask me about industrial automation 
 - 📫 How to reach me: Discord (jackwbr)  
 - 😄 Pronouns: he/him  
 
