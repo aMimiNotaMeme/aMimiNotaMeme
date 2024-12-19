@@ -1,14 +1,14 @@
 ### Hi there 👋, my name is Jack                                                                           
 #### Developer and Student                                                             
                         
-Hi! My name is Jack. I am a developer and high school student who is currently learning Java, C++, and expanding my Python experience. I'm on FRC team 7127. Message me on Discord  (jackwbr) if you want to know anything else.                     
+Hi! My name is Jack. I am a developer and high school student who is currently learning Java and expanding my C++ skills. I'm on FRC team 7127. Message me on Discord  (jackwbr) if you want to get in touch.                     
              
            
        
-Skills: Python, HTML, C++, and Java (learning)              
+Skills: Python, HTML, C++, and Java              
    
-- 🔭 I’m currently working on expanding my networking and web development experience, as well as getting decent grades :/
-- 🌱 I’m currently learning Java and C++        
+- 🔭 I’m currently working on expanding my networking experience and adding more projects to my portfolio
+- 🌱 I’m currently learning Java        
 - 👯 I’m looking to collaborate on more open-source projects and learn more about C 
 - 💬 Ask me about industrial automation 
 - 📫 How to reach me: Discord (jackwbr)  
